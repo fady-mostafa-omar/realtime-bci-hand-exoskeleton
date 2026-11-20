@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you refer to this project, please cite the paper below."
+title: "Real-time EEG BCI driving a 3D-printed hand exoskeleton (project page)"
+type: software
+authors:
+  - family-names: Omar
+    given-names: Fady M.
+  - family-names: Omar
+    given-names: Amr M.
+repository-code: "https://github.com/fady-mostafa-omar/realtime-bci-hand-exoskeleton"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "A Real-Time BCI for Stroke Hand Rehabilitation Using Latent EEG Features from Healthy Subjects"
+  authors:
+    - family-names: Omar
+      given-names: Fady M.
+    - family-names: Omar
+      given-names: Amr M.
+    - family-names: Eyada
+      given-names: Khaled
+    - family-names: Rabie
+      given-names: Mohamed
+    - family-names: Azab
+      given-names: Ahmed M.
+    - family-names: Kamel
+      given-names: Mohamed A.
+  collection-title: "Proceedings of the 7th Novel Intelligent and Leading Emerging Sciences Conference (NILES 2025)"
+  publisher:
+    name: IEEE
+  year: 2025
+  doi: "10.1109/NILES68063.2025.11232154"
+  identifiers:
+    - type: other
+      value: "arXiv:2510.15890"
