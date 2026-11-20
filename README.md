@@ -110,11 +110,6 @@ The paper reports this as a range of 60–86%. Across all 75 trials the mean is 
 This was a feasibility study: it showed that the complete chain, from a consumer headset to the moving exoskeleton,
 works in real time on low-cost hardware. It was not a clinical evaluation.
 
-## Where is the code?
-The original source code, trained models and session recordings of this project were lost and could not be recovered.
-This repository therefore documents the system and the published results. It contains no runnable code, and nothing
-here has been re-run.
-
 ## What came next
 This project rested on one idea: that a decoder built from *other people's executed movements* can work for a *new
 person's imagined movement*. The follow-up study tests that idea under controlled conditions, with all code and
